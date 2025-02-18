@@ -1,4 +1,4 @@
-## Thursday - Dengue Day Schedule
+## Thursday - 19 Feb 2025
 
 | Star   | End   | Activities                                            | Speaker            | Presentation |
 |--------|-------|-------------------------------------------------------|--------------------|--------------|
