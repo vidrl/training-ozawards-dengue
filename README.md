@@ -34,12 +34,25 @@ Right click save as:
 - [DengueSeq Analysis Pipeline](https://github.com/grubaughlab/DENV_pipeline)
 - [DengueSeq Install Instructions](https://github.com/centre-pathogen-genomics/DENV_Amplicon)
 
-Optional Videos to watch before the course start:
+
+#### Publications - Virus and Dengue
+
+- [The evolution and emergence of RNA viruses. ](https://academic.oup.com/book/53165)
+- [The origin, emergence and evolutionary genetics of dengue virus.](https://www.sciencedirect.com/science/article/abs/pii/S1567134803000042?via%3Dihub
+)
+- [Understanding dengue virus evolution to support epidemic surveillance and counter-measure development.
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC6396301/
+)
+- [A new lineage nomenclature to aid genomic surveillance of dengue virus.](https://pubmed.ncbi.nlm.nih.gov/38798319/
+)
+
+#### Optional Videos:
+
 - [Introduction to Galaxy](https://www.youtube.com/watch?v=64oS5uXVRV0)
 - [Introduction to Genome Assembly](https://youtu.be/-EX_G1griZE?si=iQMFxHw7OJtg-VbD)
 - [Introduction to NGS Mapping](https://www.youtube.com/watch?v=zuRF_uPTY-Q)
 - [A brief history of Computional Biology and Sequencing](https://youtu.be/idl6oq-MxbM?si=A3ShRWdwoVkjgXqk&t=575)
 
-Optional Publication to read:
+### Optional Publication:
 - [Twenty years of bacterial genome sequencing](https://www.nature.com/articles/nrmicro3565) - Discusses the history of sequencing technology
 - [So you want to be a computational biologist?](https://www.nature.com/articles/nbt.2740) - Advice from two Bioinformaticians
